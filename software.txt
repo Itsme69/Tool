@@ -6,3 +6,4 @@ Mozilla.Firefox
 VideoLAN.VLC
 RARLab.WinRAR
 Adobe.Acrobat.Reader.64-bit
+Microsoft.Office
