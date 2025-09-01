@@ -5,5 +5,4 @@ Oracle.JavaRuntimeEnvironment
 Mozilla.Firefox
 VideoLAN.VLC
 RARLab.WinRAR
-Microsoft.OfficeDeploymentTool
 Adobe.Acrobat.Reader.64-bit
