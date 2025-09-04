@@ -137,5 +137,8 @@ echo Your Windows is now safe about telemetry collections.
 
 :end
 echo.
-echo Hit any key to quit
-pause >NUL
+echo 	Questa shell si chiuderà tra 3 secondi...
+timeout /t 3 >nul
+exit
+
+
