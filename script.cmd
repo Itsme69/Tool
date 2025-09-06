@@ -2,12 +2,6 @@
 @echo off
 
 echo.
-echo ----  HushWin v 0.1  ----
-echo   provided by BitLogiK
-echo.
-
-REM  HushWin
-REM  Copyright (C) 2021  BitLogiK
 
 REM  This program is free software: you can redistribute it and/or modify
 REM  it under the terms of the GNU General Public License as published by
@@ -140,5 +134,6 @@ echo.
 echo 	Questa shell si chiuderà tra 3 secondi...
 timeout /t 3 >nul
 exit
+
 
 
